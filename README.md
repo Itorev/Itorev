@@ -49,10 +49,10 @@ programming student in Santiago de Chile
 
 <details>
   <summary>📃 Resume</summary>
-
--->
+   en proceso.....
 
 </details>
 
 <details>
   <summary>📦 Packages </summary>
+ en proceso.....
