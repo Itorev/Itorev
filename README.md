@@ -32,11 +32,10 @@ programming student in Santiago de Chile
 </details>-->
 
 
-<p
 
 <details>
-  <summary>📃 Resume</summary>
-   en proceso.....
+  <summary>📦 proyectos </summary>
+ en proceso.....
 
 
 
