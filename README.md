@@ -2,10 +2,11 @@
 <h1 align='center'>
 Hi there 👋 I'm Cristobal 👨‍💻 
   </h1>
+  <h3 align='center'>
 I am a 3 year computer science student.
-
+</h3>
 <p align='center'>
-  A mobile and .net developer from Brazil.
+
 </p>
 
 <p align='center'>
