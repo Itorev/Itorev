@@ -1,7 +1,8 @@
-### Hi there 👋 I'm Cristobal 👨‍💻
-<p align='center'>
+
+<h1 align='center'>
+Hi there 👋 I'm Cristobal 👨‍💻 
 I am a 3 year computer science student.
-</p>
+
 <!--
 **Itorev/Itorev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
